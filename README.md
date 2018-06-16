@@ -7,7 +7,7 @@ Adjust steps as appropriate for what is wanted.
 First git clone it:
 
 ```zsh
-git clone https://github.com/OvermindDL1/sfml-testing.git
+git clone --recursive https://github.com/OvermindDL1/sfml-testing.git
 cd sfml-testing
 ```
 
